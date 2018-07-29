@@ -1,0 +1,15 @@
+{
+  "name": "chrisprice.github.io",
+  "private": true,
+  "scripts": {
+    "blog": "marky-markdown blog/2018/07/29/web-bluetooth-with-the-microbit/index.md > blog/2018/07/29/web-bluetooth-with-the-microbit/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisprice/chrisprice.github.io.git"
+  },
+  "author": "Chris Price <price.c@gmail.com> (http://chrisprice.io/)",
+  "dependencies": {
+    "marky-markdown": "^12.0.0"
+  }
+}
