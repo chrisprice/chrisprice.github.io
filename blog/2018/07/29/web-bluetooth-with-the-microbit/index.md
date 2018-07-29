@@ -1,6 +1,6 @@
-Web Bluetooth with the microbit
+Web Bluetooth with the micro:bit
 
-#Web Bluetooth with the microbit
+#Web Bluetooth with the micro:bit
 
 **Even if you are running the default firmware or ultimately want to run your own firmware, follow this step!** Flashing the default firmware via USB has a [number of ~confusing and cryptic~ interesting and useful side-effects](#why-was-the-first-step-to-flash-the-default-firmware-onto-the-microbit-via-usb). Don't worry, we'll come back to running your own custom firmware once we've got a working connection.
 

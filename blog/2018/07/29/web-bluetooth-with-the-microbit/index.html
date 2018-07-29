@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Web Bluetooth with the microbit</title>
+  <title>Web Bluetooth with the micro:bit</title>
   <meta name="author" content="Chris Price"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
-<h1><a id="user-content-web-bluetooth-with-the-microbit" class="anchor" href="#web-bluetooth-with-the-microbit" aria-hidden="true" rel="nofollow"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Web Bluetooth with the microbit</h1>
+<h1><a id="user-content-web-bluetooth-with-the-microbit" class="anchor" href="#web-bluetooth-with-the-microbit" aria-hidden="true" rel="nofollow"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Web Bluetooth with the micro:bit</h1>
 <p><strong>Even if you are running the default firmware or ultimately want to run your own firmware, follow this step!</strong> Flashing the default firmware via USB has a <a href="#why-was-the-first-step-to-flash-the-default-firmware-onto-the-microbit-via-usb" rel="nofollow">number of ~confusing and cryptic~ interesting and useful side-effects</a>. Don't worry, we'll come back to running your own custom firmware once we've got a working connection.</p>
 <p>First up, we're going to flash the default firmware onto the micro:bit via USB. Download the <a href="https://lancaster-university.github.io/microbit-docs/resources/BBC_MICROBIT_OOB_FINAL.zip" rel="nofollow">default firmware</a> and unzip it. Connect your micro:bit via USB, find the mounted drive and drag the <code>BBC_MICROBIT_OOB_FINAL.hex</code> onto it. After restarting, your micro:bit screen should be alternating between a <code>←</code> and an <code>A</code></p>
 <p><em>To be on the safe side, if you've ever tried to connect to the micro:bit from the device you're running the browser on, you should additionally clear any saved bluetooth pairing information for the micro:bit. I've also found it doesn't hurt to restart your browser once you've cleared the pairing information. If you've never tried to connect before, you can safely skip this.</em></p>
