@@ -1,6 +1,6 @@
+Web Bluetooth with the microbit
 
-bit-web-bluetooth
-
+#Web Bluetooth with the microbit
 
 **Even if you are running the default firmware or ultimately want to run your own firmware, follow this step!** Flashing the default firmware via USB has a [number of ~confusing and cryptic~ interesting and useful side-effects](#why-was-the-first-step-to-flash-the-default-firmware-onto-the-microbit-via-usb). Don't worry, we'll come back to running your own custom firmware once we've got a working connection.
 
@@ -69,7 +69,7 @@ I should caviat the following by saying I'm not sure if it would be technically 
 
 This approach would mean that developers would have to consider how to secure their device. Whilst this might be slightly less intuitive, I believe an example program would be easily relatable and extendable. It allows the developer freedom and creativity in how they communicate bluetooth states and, for passkey pairing, the passcode to users. Combined with the blocks for enabling the optional services, it also allows for a consistent presentation of services rather than a unmodifiable Pairing Mode set.
 
-One thing I haven't considered as it's not something supported by MakeCode yet, is programming via bluetooth. In such a mode I can see why a last-resort Pairing Mode would be appropriate to provide a backdoor into the device when required (e.g. a user communicates the incorrect passcode). 
+One thing I haven't considered as it's not something supported by MakeCode yet, is programming via bluetooth. In such a mode I can see why a last-resort Pairing Mode would be appropriate to provide a backdoor into the device when required (e.g. a user communicates the incorrect passcode).
 
 ### FAQ
 
