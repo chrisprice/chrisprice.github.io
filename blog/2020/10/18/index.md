@@ -2,7 +2,7 @@ Scaffold board patio steps
 
 # Scaffold board patio steps
 
-A half-day project to build some patio steps from some recycled scaffolding boards from [Newcastle Wood Recycling CIC](https://www.welovewood.org/). Also known as we love wood, I would thoroughly recommend their products, ethos and sense of humour.
+A half-day project to build some patio steps out of some recycled scaffolding boards from [Newcastle Wood Recycling CIC](https://www.welovewood.org/). Also known as we love wood; I would thoroughly recommend their products, ethos and sense of humour.
 
 ## Constraints
 
@@ -33,4 +33,6 @@ You can see my indecision in getting the depth "right". In the end, I laid the b
 
 ## What would I do differently?
 
-Nothing actually. This is one of the very few projects that hasn't left any sense of instant or steadily accumulating regret. They've held up well for 2 years now and show no real signs of wear.
+Not a lot really. This is one of the very few projects that hasn't left any sense of instant or steadily accumulating regret. They've held up well for 2 years now and show no real signs of wear.
+
+If I was nit-picking I'd say they're a little too tall, maybe by 5mm or so. That means that the slight movement in them can be enough if you step on them in the wrong way, to cause the plastic sills on the doors to creak.
