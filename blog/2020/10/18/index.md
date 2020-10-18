@@ -28,12 +28,15 @@ You can see my indecision in getting the depth "right". In the end, I laid the b
 
 ## Final product
 
-Unusually, it turned out pretty true to the design. The whole thing is held together with the liberal addition of 4x65mm decking screws.
+Unusually, it turned out pretty true to the design -
 
 | ![Steps and offcuts](IMG_3012.jpg) | ![More steps and offcuts with a hint of plate](IMG_3013.jpg) | ![Steps, offcuts, a plate with cake and a cup of tea!](IMG_3014.jpg) |
 | - | - | - |
 | Steps and offcuts | More steps and offcuts with a hint of plate | Steps, offcuts, a plate with cake and a cup of tea! |
 
+Each of the boards was cut down to size using a [sliding mitre saw](https://www.amazon.co.uk/Metabo-KGS216M-1500-Sliding-Mitre/dp/B00R0812XO). The whole thing is held together with the liberal addition of 4x65mm decking screws.
+
+All of the boards had straps around their ends which I lobbed off. Some had strap-type-things further along their lengths, I should probably have avoided those when I'd picked them out but I just used them for the shorter side pieces. 
 
 ## What would I do differently?
 
