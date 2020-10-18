@@ -16,11 +16,9 @@ The steps had to -
 
 ## Design
 
-This is the design I came up with -
+This is the design I came up with (I've no idea why I chose to take a photo of my laptop screen) -
 
-| ![Sketchup plan. I've no idea why I chose to take a photo of my laptop screen](IMG_2928.jpg) |
-| - |
-| Sketchup plan. I've no idea why I chose to take a photo of my laptop screen |
+![Sketchup plan](IMG_2928.jpg)
 
 You can just about see the construction in the image. There's 3 vertical supports which run front to back internally forming the feet you can see poking out the bottom. Each of these are cut to the right height to accomodate the slope. 
 
