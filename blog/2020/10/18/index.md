@@ -2,7 +2,7 @@ Scaffold board patio steps
 
 # Scaffold board patio steps
 
-A half-day project to build a pair of patio steps out of some recycled scaffolding boards from [Newcastle Wood Recycling CIC](https://www.welovewood.org/). Also known as we love wood; I would thoroughly recommend their products, ethos and sense of humour.
+A half-day project to build a pair of patio steps out of some recycled scaffolding boards from [Newcastle Wood Recycling CIC](https://www.welovewood.org/). Also known as we love wood. I would thoroughly recommend their products, ethos and sense of humour.
 
 ## Constraints
 
@@ -16,9 +16,11 @@ The steps had to -
 
 ## Design
 
-This is the design I came up with. I've no idea why I chose to take a photo of my laptop screen. 
+This is the design I came up with -
 
-![Sketchup plan](IMG_2928.jpg)
+| ![Sketchup plan. I've no idea why I chose to take a photo of my laptop screen](IMG_2928.jpg) |
+| - |
+| Sketchup plan. I've no idea why I chose to take a photo of my laptop screen |
 
 You can just about see the construction in the image. There's 3 vertical supports which run front to back internally forming the feet you can see poking out the bottom. Each of these are cut to the right height to accomodate the slope. 
 
@@ -30,9 +32,9 @@ You can see my indecision in getting the depth "right". In the end, I laid the b
 
 Unusually, it turned out pretty true to the design. The whole thing is held together with the liberal addition of 4x65mm decking screws.
 
-![Steps and offcuts](IMG_3012.jpg)
-![More steps and offcuts with a hint of plate](IMG_3013.jpg)
-![Steps, offcuts, a plate with cake and a cup of tea!](IMG_3014.jpg)
+| ![Steps and offcuts](IMG_3012.jpg) | ![More steps and offcuts with a hint of plate](IMG_3013.jpg) | ![Steps, offcuts, a plate with cake and a cup of tea!](IMG_3014.jpg) |
+| - | - | - |
+| Steps and offcuts | More steps and offcuts with a hint of plate | Steps, offcuts, a plate with cake and a cup of tea! |
 
 
 ## What would I do differently?
