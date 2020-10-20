@@ -25,7 +25,7 @@ I went through many iterations of design in Sketchup without being able to find 
 
 ## Final product
 
-The poles were measured, marked with a Sharpie using one of the fittings as a guide, then cut to size with a cutting disk and a great deal of care. Finally, they are held in place using fittings bolted to the timber wall with coach bolts -
+The poles were measured, marked with a Sharpie using one of the fittings as a guide, then cut to size with a cutting disk and a great deal of care. Finally, they were held in place using fittings bolted to the timber wall with coach bolts -
 
 | ![Short wall left](IMG_3034.jpg) | ![Short wall right](IMG_3035.jpg) |
 | - | - |
@@ -37,13 +37,13 @@ For the opposite wall, the fixings were a bit more involved. It's a brick wall w
 | - | - |
 | Dot and dab fixings | Tall wall and cross braces |
 
-If you're curious as to why there's a large hole in the middle of each cluster of four, that was me being overly cautious and drilling an inspection hole. I knew there were power cables in the rough vacinity and I was minded to not drill into them.
+If you're curious as to why there's a large hole in the middle of each cluster of four, that was me being overly cautious and drilling an inspection hole. I knew there were power cables in the rough vacinity and I was keen to avoid tripping my chest fuse.
 
 Finally, I added some more poles between the two walls as cross bracing. By this point my thinking was to build a frame to allow me to attach stuff to the walls, add some shelves to make use of the space above head height and leave the floor clear for some wheeled benches. This didn't actually turn out to be the final design but this post is already long enough and I haven't even covered my mistakes yet, so I'll leave it there for now.
 
 ## What would I do differently?
 
-Surprising noone, I should have spent the time designing it properly and then ordering pieces pre-cut to the right size. Whilst playing with the cutting wheel on angle grinder was initially fun, if a bit terrifying, it took a while to cut through and cutting a lot of poles got old quickly. I also found it really quite hard (read impossible) to get a square cut and over time the cut edges have rusted because there's no galvanic treatment where they've been cut.
+Surprising no one I'm sure, I should have spent the time designing it properly and then ordering pieces pre-cut to the right size. Whilst playing with the cutting wheel on the angle grinder was initially fun if a bit terrifying, each cut took a while to complete and so cutting a lot of poles got old quickly. I also found it really quite hard (read impossible) to get a square cut. Additionally, over time the cut edges have rusted because there's no galvanic treatment where they've been cut.
 
  ![Pole offcuts](IMG_3061.jpg)
 
