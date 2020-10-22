@@ -40,5 +40,5 @@ Notching the 3 main sloped pieces to accept the horizontal support was a lot of 
 
 If those notches were bad, the others were so much worse. Perpendicular notches are relatively straightforward but these were not only at an angle, they also had asymetric walls. That meant spending way more time than I'd like to admit adjusting the depth stop on the saw, doing another parallel cut, finding I'd over/undershot the line and then repeating before breaking out the (still blunt) chisel. 
 
-All of this effort to accomodate the rectangular piece of supporting timber. Thinking to myself the entire time that there must be an easier way to do, all the while staring at the piece of timber I'd just cut with a mitre along its long edge. If I'd just cut another piece of wood with the exact same mitre, turned it upside down and used **it** as the support, I could just have cut a nice square notch and being done with it.
+All of this effort to accomodate the rectangular piece of supporting timber. Thinking to myself the entire time that there must be an easier way to do it, all the while staring at the piece of timber I'd just cut with a mitre along its long edge. If I'd just cut another piece of wood with the exact same mitre, turned it upside down and used **it** as the support, I could just have cut a nice easy square notch and been done with it.
 
